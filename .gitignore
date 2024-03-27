@@ -1,1 +1,7 @@
-/metric_depth/checkpoints/
+metric_depth/checkpoints/
+metric_depth/.ipynb_checkpoints/
+metric_depth/__pycache__/
+depth_pipeline/.ipynb_checkpoints/
+depth_pipeline/__pycache__/
+.ipynb_checkpoints/
+
